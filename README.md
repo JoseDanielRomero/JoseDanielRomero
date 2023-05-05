@@ -9,8 +9,8 @@
 - 💬 Ask me about ... **Web Develpoment**
 - 😄 Employement ... **Open for new opportunities**
 - ⚡ Fun fact ... **I'm also a Dentist**🦷
-- 📫 How to reach me **danyrome12dev@gmail.com**
-- 🌐 LinkedIn **https://www.linkedin.com/in/jose-daniel-romero-t/**
+- 📫 How to reach me ... **danyrome12dev@gmail.com**
+- 🌐 LinkedIn ... **https://www.linkedin.com/in/jose-daniel-romero-t/**
 <h4>Languages and Tools: </h4>
 <p align="left">
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
