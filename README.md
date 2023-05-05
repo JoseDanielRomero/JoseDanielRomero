@@ -1,13 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm José Daniel</h1>
  <p align="center"><br/>
-   <a href="https://www.linkedin.com/in/jose-daniel-romero-t/">
-    <img src="https://img.shields.io/badge/linkedin-sachuverma-blue">
-  </a>
-  
-  <a href="https://www.instagram.com/josedanielromero_t/">
-    <img src="https://img.shields.io/badge/instagram-sachuverma_-red">
-  </a>
-</p>
 
 <h3 align="center">A passionate Frontend Developer Student from Ecuador</h3>
 
