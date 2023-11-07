@@ -5,7 +5,7 @@
 <!-- <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
 - 🌱 I’m currently learning ... **TypeScript**
-- 💬 Ask me about ... **Web Develpoment**
+- 💬 Ask me about ... **Web Development**
 - 💼 Employement ... **Open for new opportunities**
 - 😄 Fun fact ... **I'm also a Dentist** 🦷
 - 📫 How to reach me ... **danyrome12.dev@gmail.com**
